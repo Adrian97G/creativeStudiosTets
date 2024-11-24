@@ -12,7 +12,7 @@ Creative Studios Test
 
 ## :camera_flash: Project Image
 
-![Form Validator Img](/img/readme/projectCreativeStudios.png)
+![Form Validator Img](https://github.com/Adrian97G/creativeStudiosTets/blob/main/projectCreativeStudios.png)
 
 ## :link: Link to see the project in action
 
