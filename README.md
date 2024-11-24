@@ -16,6 +16,6 @@ Creative Studios Test
 
 ## :link: Link to see the project in action
 
-[Here you can see the project](https://form-validator-adrian-dev.netlify.app/)
+[Here you can see the project](https://creative-studios-test.netlify.app/)
 
 ## :wave: Greetings!!
